@@ -36,7 +36,7 @@ do
             Transferir();
             break;
        case 5:
-        ListarCliente():
+        ListarCliente(): 
         break; 
         default:
             Console.WriteLine($"Opção Inválida");
@@ -90,6 +90,12 @@ void Sacar()
     if (idCliente == -1)
     {//cliente não existe
         return; 
+        Console.Write($"Valor para saque:");
+        float valor = float.Parse(Console.ReadLine()); 
+        if(saldo[idCliente] >= valor > 0 )
+        {//tem saldo suficiente 
+
+        }
     }
 
     //cliente existe 
@@ -113,7 +119,7 @@ void Sacar()
    
 
         
-}
+}   
 void Transferir()
 {
     Console.WriteLine($"== Transferência==");

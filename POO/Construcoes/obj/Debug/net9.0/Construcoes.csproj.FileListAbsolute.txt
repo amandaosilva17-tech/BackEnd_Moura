@@ -1,0 +1,15 @@
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\bin\Debug\net9.0\Construcoes.exe
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\bin\Debug\net9.0\Construcoes.deps.json
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\bin\Debug\net9.0\Construcoes.runtimeconfig.json
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\bin\Debug\net9.0\Construcoes.dll
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\bin\Debug\net9.0\Construcoes.pdb
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.AssemblyInfoInputs.cache
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.AssemblyInfo.cs
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.csproj.CoreCompileInputs.cache
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.sourcelink.json
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.dll
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\refint\Construcoes.dll
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.pdb
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\Construcoes.genruntimeconfig.cache
+C:\Users\46639158841\Desktop\BACKEND\POO\Construcoes\obj\Debug\net9.0\ref\Construcoes.dll
