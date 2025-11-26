@@ -1,0 +1,15 @@
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\bin\Debug\net9.0\Encapsulamento02.exe
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\bin\Debug\net9.0\Encapsulamento02.deps.json
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\bin\Debug\net9.0\Encapsulamento02.runtimeconfig.json
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\bin\Debug\net9.0\Encapsulamento02.dll
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\bin\Debug\net9.0\Encapsulamento02.pdb
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.AssemblyInfoInputs.cache
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.AssemblyInfo.cs
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.csproj.CoreCompileInputs.cache
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.sourcelink.json
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.dll
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\refint\Encapsulamento02.dll
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.pdb
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\Encapsulamento02.genruntimeconfig.cache
+C:\Users\46639158841\Desktop\BACKEND\POO\PilaresPoo\ClasseEstaticas\Encapsulamento02\obj\Debug\net9.0\ref\Encapsulamento02.dll
